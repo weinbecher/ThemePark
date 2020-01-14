@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac045795-6ee8-4e33-b497-41028b77310c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WOq4B2HIEykoGNdyj2rUsxOwWq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579012822358" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="JUnit.TobaccoStallTest.hasSecurityCheck">
+    <configuration name="PlaygroundTest.hasSecurityCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.PlaygroundTest" />
+      <option name="METHOD_NAME" value="hasSecurityCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RollercoasterTest.hasDefaultPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.RollercoasterTest" />
+      <option name="METHOD_NAME" value="hasDefaultPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RollercoasterTest.hasPriceForDifferentPeople" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.RollercoasterTest" />
+      <option name="METHOD_NAME" value="hasPriceForDifferentPeople" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RollercoasterTest.hasSecurityCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.RollercoasterTest" />
+      <option name="METHOD_NAME" value="hasSecurityCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TobaccoStallTest.hasSecurityCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stalls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stalls" />
+      <option name="MAIN_CLASS_NAME" value="stalls.TobaccoStallTest" />
+      <option name="METHOD_NAME" value="hasSecurityCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TobaccoStallTest.hasSecurityCheck" />
+        <item itemvalue="JUnit.RollercoasterTest.hasSecurityCheck" />
+        <item itemvalue="JUnit.PlaygroundTest.hasSecurityCheck" />
+        <item itemvalue="JUnit.RollercoasterTest.hasPriceForDifferentPeople" />
+        <item itemvalue="JUnit.RollercoasterTest.hasDefaultPrice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac045795-6ee8-4e33-b497-41028b77310c" name="Default Changelist" comment="" />
+      <created>1579012674449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579012674449</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="164" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579035401453">
+      <screen x="0" y="23" width="1344" height="736" />
+    </state>
+    <state x="436" y="164" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1344.736@0.23.1344.736" timestamp="1579035401453" />
+    <state x="511" y="108" key="#com.intellij.ide.util.MemberChooser" timestamp="1579035093945">
+      <screen x="0" y="23" width="1344" height="736" />
+    </state>
+    <state x="511" y="108" key="#com.intellij.ide.util.MemberChooser/0.23.1344.736@0.23.1344.736" timestamp="1579035093945" />
+    <state width="1302" height="183" key="GridCell.Tab.0.bottom" timestamp="1579035124990">
+      <screen x="0" y="23" width="1344" height="736" />
+    </state>
+    <state width="1302" height="183" key="GridCell.Tab.0.bottom/0.23.1344.736@0.23.1344.736" timestamp="1579035124990" />
+    <state width="1302" height="183" key="GridCell.Tab.0.center" timestamp="1579035124989">
+      <screen x="0" y="23" width="1344" height="736" />
+    </state>
+    <state width="1302" height="183" key="GridCell.Tab.0.center/0.23.1344.736@0.23.1344.736" timestamp="1579035124989" />
+    <state width="1302" height="183" key="GridCell.Tab.0.left" timestamp="1579035124989">
+      <screen x="0" y="23" width="1344" height="736" />
+    </state>
+    <state width="1302" height="183" key="GridCell.Tab.0.left/0.23.1344.736@0.23.1344.736" timestamp="1579035124989" />
+    <state width="1302" height="183" key="GridCell.Tab.0.right" timestamp="1579035124990">
+      <screen x="0" y="23" width="1344" height="736" />
+    </state>
+    <state width="1302" height="183" key="GridCell.Tab.0.right/0.23.1344.736@0.23.1344.736" timestamp="1579035124990" />
+    <state width="1302" height="228" key="GridCell.Tab.1.bottom" timestamp="1579034851393">
+      <screen x="0" y="23" width="1344" height="736" />
+    </state>
+    <state width="1302" height="228" key="GridCell.Tab.1.bottom/0.23.1344.736@0.23.1344.736" timestamp="1579034851393" />
+    <state width="1302" height="228" key="GridCell.Tab.1.center" timestamp="1579034851393">
+      <screen x="0" y="23" width="1344" height="736" />
+    </state>
+    <state width="1302" height="228" key="GridCell.Tab.1.center/0.23.1344.736@0.23.1344.736" timestamp="1579034851393" />
+    <state width="1302" height="228" key="GridCell.Tab.1.left" timestamp="1579034851393">
+      <screen x="0" y="23" width="1344" height="736" />
+    </state>
+    <state width="1302" height="228" key="GridCell.Tab.1.left/0.23.1344.736@0.23.1344.736" timestamp="1579034851393" />
+    <state width="1302" height="228" key="GridCell.Tab.1.right" timestamp="1579034851393">
+      <screen x="0" y="23" width="1344" height="736" />
+    </state>
+    <state width="1302" height="228" key="GridCell.Tab.1.right/0.23.1344.736@0.23.1344.736" timestamp="1579034851393" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
